@@ -1,0 +1,33 @@
+#profile{
+    width: 100px;
+    margin-bottom: 15px;
+}
+
+#github{
+    width: 30px;
+}
+
+#linkedin{
+    width: 30px;
+}
+
+#emaillogo{
+    width: 30px;
+}
+
+#html{
+    width: 50px;
+}
+
+h2{
+    margin-bottom: 1px;
+}
+
+.textbox{
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+#sendMessage{
+    margin-left: 30px;
+}
